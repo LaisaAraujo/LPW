@@ -66,3 +66,72 @@ C:\vitoria\LPW\FJI Corp\FJI Corp\bin\Microsoft.Owin.Security.Twitter.xml
 C:\vitoria\LPW\FJI Corp\FJI Corp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\vitoria\LPW\FJI Corp\FJI Corp\obj\Debug\FJI Corp.dll
 C:\vitoria\LPW\FJI Corp\FJI Corp\obj\Debug\FJI Corp.pdb
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\roslyn\csc.exe
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\roslyn\System.Collections.Immutable.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\roslyn\vbc.exe
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\roslyn\VBCSCompiler.exe
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\roslyn\VBCSCompiler.exe.config
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\FJI Corp.dll.config
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\FJI Corp.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\FJI Corp.pdb
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Antlr3.Runtime.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\EntityFramework.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\EntityFramework.SqlServer.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Security.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Security.Google.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Web.Infrastructure.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Newtonsoft.Json.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Owin.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\System.Web.Helpers.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\System.Web.Mvc.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\System.Web.Optimization.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\System.Web.Razor.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\System.Web.WebPages.Deployment.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\System.Web.WebPages.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\System.Web.WebPages.Razor.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\WebGrease.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\System.Web.Helpers.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\System.Web.Mvc.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\System.Web.Optimization.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\System.Web.Razor.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\System.Web.WebPages.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\System.Web.WebPages.Deployment.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\System.Web.WebPages.Razor.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Antlr3.Runtime.pdb
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Newtonsoft.Json.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\EntityFramework.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\EntityFramework.SqlServer.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Security.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Security.Google.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Luann\Projeto ASP.NET\FJI Corp\obj\Debug\FJI Corp.dll
+C:\Luann\Projeto ASP.NET\FJI Corp\obj\Debug\FJI Corp.pdb
+C:\Luann\Projeto ASP.NET\FJI Corp\obj\Debug\FJI Corp.csprojResolveAssemblyReference.cache

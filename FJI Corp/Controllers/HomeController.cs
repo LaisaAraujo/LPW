@@ -12,17 +12,15 @@ namespace FJI_Corp.Controllers
         {
             return View();
         }
-
-        public ActionResult About()
+        public ActionResult Service()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Serviço";
 
             return View();
         }
-
-        public ActionResult Contact()
+        public ActionResult Formulario()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Serviço";
 
             return View();
         }
