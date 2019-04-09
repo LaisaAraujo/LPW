@@ -174,6 +174,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Agil.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -193,6 +194,18 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\Slide\ass1.jpg" />
+    <Content Include="Images\Slide\ass2.jpg" />
+    <Content Include="Images\Slide\ass3.jpg" />
+    <Content Include="Images\Slide\ass4.jpg" />
+    <Content Include="Images\Slide\ass5.jpg" />
+    <Content Include="Images\Slide\ass6.jpg" />
+    <Content Include="Images\Slide\fri1.jpg" />
+    <Content Include="Images\Slide\fri2.jpg" />
+    <Content Include="Images\Slide\fri3.jpg" />
+    <Content Include="Images\Slide\fri4.jpg" />
+    <Content Include="Images\Slide\fri5.jpg" />
+    <Content Include="Images\Slide\fri6.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.js" />
